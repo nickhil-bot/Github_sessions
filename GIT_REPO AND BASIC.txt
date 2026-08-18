@@ -4,3 +4,16 @@ git commit -m "first commit" ----> this is command used to tag the message for c
 git branch -M main ----> this command create a master branch
 git remote add origin https://github.com/nickhil-bot/First_Repo.git  ----> this is a path or location were code is uploaded
 git push -u origin main ----> this commands push all the change to github
+
+
+//to update the changes in the repo used this command 
+git add. --> add all the file
+git commit -m "first commit" --> adds check points
+git push -u origin main --> pushes files to github
+
+
+
+// Difference between git and git add .   ---->
+
+// git add file_name -----> this used to add only the specific file changes
+// git add. ---> this used to add all the updated changes in all the file
